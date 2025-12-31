@@ -4,10 +4,9 @@ Wir coden ne coole website über uns mit Shop, Quiz und vielem mehr!
 
 ToDos:
 
-[] Hauptwebsite weitercoden
+[] main website weitercoden
 
 
-
-Basti bitte gehe in die andere Readme.md da siehst du die Sachen
+
 
 
